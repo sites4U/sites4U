@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alexei Web
 
 
-* 🧐 Full-stack developer (fron-end and back-end)
+* 🧐 Full-stack developer (front-end and back-end)
 * 💻 ~5 years of commercial development experience
 * 💼 I work freelance, but I would be happy to work in a team. 
 * 🎓 Graduated from <a href="https://johnabbott.qc.ca/" target="_blank">John Abbott College</a> in 2019 as Full-stack Developer
