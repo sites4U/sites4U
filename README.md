@@ -11,16 +11,16 @@
   - HTML (HTML5), JSX
   - CSS (CSS3), Sass (SCSS), PostCSS, Bootstrap, Tailwind, Animations
   - JavaScript (ES6+, OOP), jQuery, TypeScript
-  - React
-  - Redux (Redux Toolkit, Redux Persist)
-  - Webpack, Vite, Gulp, Rollup
+  - Vue, React
+  - Vitest
+  - Webpack, Vite, Gulp
   - WordPress, Winter CMS, Craft CMS
   - REST API, WebSockets
   - BEM, UI/UX
   - Git (GitHub, BitBucket, GitLab)
   - Figma, Adobe Photoshop
   - PHP, Blade, Twig
-  - Agile, Waterfall, SCRUM
+  - Agile, SCRUM
   </details>
 
 <div align="center">
