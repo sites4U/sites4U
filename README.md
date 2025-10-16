@@ -19,7 +19,7 @@
   - REST API, WebSockets
   - BEM, UI/UX
   - Git (GitHub, BitBucket, GitLab)
-  - Figma, Adobe Photoshop
+  - Figma, Pixso, Adobe Photoshop
   - PHP, Blade, Twig
   - Agile, SCRUM
   </details>
