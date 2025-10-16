@@ -14,7 +14,7 @@
   - Vue, React
   - Vitest
   - Webpack, Vite, Gulp
-  - WordPress, Winter CMS, Craft CMS
+  - WordPress (Full Site Editing (Gutenberg/React), Elementor, WPBakery), Winter CMS, Craft CMS
   - REST API, WebSockets
   - BEM, UI/UX
   - Git (GitHub, BitBucket, GitLab)
