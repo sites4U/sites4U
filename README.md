@@ -12,9 +12,10 @@
   - CSS (CSS3), Sass (SCSS), PostCSS, Bootstrap, Tailwind, Animations
   - JavaScript (ES6+, OOP), jQuery, TypeScript
   - Vue, React
+  - Laravel, Livewire
   - Vitest
   - Webpack, Vite, Gulp
-  - WordPress (Full Site Editing (Gutenberg/React), Elementor, WPBakery), Winter CMS, Craft CMS
+  - WordPress (Full Site Editing (Gutenberg/React), Elementor, WPBakery), Winter CMS
   - REST API, WebSockets
   - BEM, UI/UX
   - Git (GitHub, BitBucket, GitLab)
